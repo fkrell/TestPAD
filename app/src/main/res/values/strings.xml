@@ -8,4 +8,49 @@
     <string name="edit_message">Edite aqui!!!</string>
     <string name="button_send">Send!!!</string>
 
+    <string name="T11">T11</string>
+    <string name="T12">T12</string>
+    <string name="T13">T13</string>
+    <string name="T14">T14</string>
+    <string name="T15">T15</string>
+    <string name="T16">T16</string>
+
+    <string name="T21">T21</string>
+    <string name="T22">T22</string>
+    <string name="T23">T23</string>
+    <string name="T24">T24</string>
+    <string name="T25">T25</string>
+    <string name="T26">T26</string>
+
+    <string name="T31">T31</string>
+    <string name="T32">T32</string>
+    <string name="T33">T33</string>
+    <string name="T34">T34</string>
+    <string name="T35">T35</string>
+    <string name="T36">T36</string>
+
+    <string name="T41">T41</string>
+    <string name="T42">T42</string>
+    <string name="T43">T43</string>
+    <string name="T44">T44</string>
+    <string name="T45">T45</string>
+    <string name="T46">T46</string>
+
+    <string name="T51">T51</string>
+    <string name="T52">T52</string>
+    <string name="T53">T53</string>
+    <string name="T54">T54</string>
+    <string name="T55">T55</string>
+    <string name="T56">T56</string>
+
+    <string name="T61">T61</string>
+    <string name="T62">T62</string>
+    <string name="T63">T63</string>
+    <string name="T64">T64</string>
+    <string name="T65">T65</string>
+    <string name="T66">T66</string>
+
+    <string name="e_bar">Energy Bar</string>
+
+
 </resources>
